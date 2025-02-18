@@ -37,6 +37,7 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+.mvn/
 
 # 🛠 Gradle 빌드 결과 제외 (혹시 사용 시)
 .gradle/
